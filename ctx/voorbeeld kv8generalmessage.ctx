@@ -1,0 +1,7 @@
+\GKV8turbo_generalmessages|KV8turbo_generalmessages|openOV Arnhem Nijmegen|||UTF-8|0.1|2016-03-01T15:15:36+01:00|BOM﻿CRLF
+\TGENERALMESSAGEUPDATE|GENERALMESSAGEUPDATE|start objectCRLF
+\LDataOwnerCode|MessageCodeDate|MessageCodeNumber|TimingPointDataOwnerCode|TimingPointCode|MessageType|MessageDurationType|MessageStartTime|MessageEndTime|MessageContent|ReasonType|SubReasonType|ReasonContent|EffectType|SubEffectType|EffectContent|MeasureType|SubMeasureType|MeasureContent|AdviceType|SubAdviceType|AdviceContent|MessageTimeStampCRLF
+CXX|2016-03-01|40|ALGEMEEN|60650060|GENERAL|ENDTIME|2016-03-01T15:16:00+01:00|2016-03-01T15:38:00+01:00|Lijn 121 richting Uden is vertraagd ivm verkeershinder|\0|\0|\0|\0|\0|\0|\0|\0|\0|\0|\0|\0|2016-03-01T15:15:30+01:00CRLF
+CXX|2016-03-01|40|ALGEMEEN|60650080|GENERAL|ENDTIME|2016-03-01T15:16:00+01:00|2016-03-01T15:38:00+01:00|Lijn 121 richting Uden is vertraagd ivm verkeershinder|\0|\0|\0|\0|\0|\0|\0|\0|\0|\0|\0|\0|2016-03-01T15:15:30+01:00CRLF
+CXX|2016-03-01|40|ALGEMEEN|60650100|GENERAL|ENDTIME|2016-03-01T15:16:00+01:00|2016-03-01T15:38:00+01:00|Lijn 121 richting Uden is vertraagd ivm verkeershinder|\0|\0|\0|\0|\0|\0|\0|\0|\0|\0|\0|\0|2016-03-01T15:15:30+01:00CRLF
+
